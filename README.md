@@ -3,9 +3,9 @@
 ## Original Minigame by Nintendo and Hudson Soft
 
 ## Background Information
-* Mario Party 4 Wikipedia Page - https://en.wikipedia.org/wiki/Mario_Party_4
-* Hide and Go Boom Minigame on Mario Wiki - https://www.mariowiki.com/Hide_and_Go_BOOM!
-* Hide and Go Boom Minigame In Action - https://www.youtube.com/watch?v=LO2ovXtoDmI
+* [Mario Party 4 Wikipedia Page](https://en.wikipedia.org/wiki/Mario_Party_4)
+* [Hide and Go Boom Minigame on Mario Wiki](https://www.mariowiki.com/Hide_and_Go_BOOM!)
+* [Hide and Go Boom Minigame In Action](https://www.youtube.com/watch?v=LO2ovXtoDmI)
 
 ### Backstory
 So, I was playing Mario Party 4 (my favorite one, and the one I grew up on) and as I kept playing the minigame "Hide and Go Boom", I realized it's entirely chance based. But what are the odds? Does the 1 have the advantage, or do the 3, or is it actually 50/50? Well, rather than simply write down and calculate the statistics myself, I decided to program a simulation based off of the minigame mechanics, run it a thousandish times, and see how many times each team wins.
