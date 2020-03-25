@@ -11,10 +11,10 @@
 So, I was playing Mario Party 4 (my favorite one, and the one I grew up on) and as I kept playing the minigame "Hide and Go Boom", I realized it's entirely chance based. But what are the odds? Does the 1 have the advantage, or do the 3, or is it actually 50/50? Well, rather than simply write down and calculate the statistics myself, I decided to program a simulation based off of the minigame mechanics, run it a thousandish times, and see how many times each team wins.
 
 ### How To Use
-* Use the 'npm start' script to run the program. You may adjust the amount of simulations for more or less precision. For reference, on my system, 4 million simulations takes about 1 second.
+Use the 'npm start' script to run the program. You may adjust the amount of simulations for more or less precision. For reference, on my system, 4 million simulations takes about 1 second.
 
 ### Conclusion
-It turns out that the three player team has a slight advantage and will win just under 58% of the time.
+It turns out that the three player team has a slight advantage and will win just under 58% of the time. However, this is in a truly random fashion. The odds and winrates can be manipulated through human interations if the solo player is a human and at least 1 of the team of three people is a human too.
 
 ##### Notes
 While a good chunk of this code could be hard written, I decided to make several parts of it easier to reuse in a sense. Though this does make the code look a bit sloppy. Perhaps I can come back to this code at a later date and make all of minigame.js reusable, so it would be possible to set the amount of cannons, players, and fuses.

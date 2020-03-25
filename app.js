@@ -18,4 +18,4 @@ function simulate(x) {
 }
 
 //Adjust this value for how many simulations of the minigame you want to run
-simulate(240000000)
+simulate(4000000)
