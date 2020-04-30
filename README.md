@@ -1,5 +1,5 @@
 # Mario Party 4, Hide and Go Boom Simulator
-## Created by Andrew Jessen-Tyler
+## Andrew Jessen-Tyler
 ## Original Minigame by Nintendo and Hudson Soft
 
 ## Background Information
@@ -22,7 +22,7 @@ While a good chunk of this code could be hard written, I decided to make several
 ##### License
 MIT License
 
-Copyright (c) [2020] [Andrew Jessen-Tyler]
+Copyright (c) 2020 AJessen and Andrew Jessen-Tyler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

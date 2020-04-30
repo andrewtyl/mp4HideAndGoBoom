@@ -2,6 +2,8 @@
   "name": "mp4hideandgoboom",
   "version": "1.0.0",
   "description": "A mass simulator of the Hide and Go Boom minigame from Mario Party 4.",
+  "author": "Andrew Jessen-Tyler",
+  "license": "MIT",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
@@ -13,8 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/andrewtyl/mp4HideAndGoBoom.git"
   },
-  "author": "Andrew Jessen-Tyler",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/andrewtyl/mp4HideAndGoBoom/issues"
   },
